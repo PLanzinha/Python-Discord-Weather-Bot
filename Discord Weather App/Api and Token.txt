@@ -1,0 +1,3 @@
+This program requires both an Api key from openweathermap and a developer token from Discord to be able to use.
+
+To get a key from openweathermap one must create an account on the site, select an API, like for example Current Weather Data API. 

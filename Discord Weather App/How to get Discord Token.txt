@@ -1,0 +1,4 @@
+To obtain your Discord token, log in on the Discord website via your desktop browser, such as Google Chrome. Click the three dots, choose More tools, then Developer tools. Go to the Application tab, click the down arrow next to Local storage in the Storage section, find and click on the Discord URL. In the Filter field, type token, and click Toggle device toolbar. Your Discord token will appear; copy and paste it using (CTRL+C, CTRL+V) or note it down.
+Afterwards fill the token.txt with the token to be able to use this bot.
+ 
+Update: Youtube started blocking discord music bots, likely due to issues surrounding copyrights and monetization.

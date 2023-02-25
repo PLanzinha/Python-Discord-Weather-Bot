@@ -1,0 +1,1 @@
+A python made Discord Weather Bot, allows users in discord to search for the current weather, simply by writing the city name the bot says the temperature that is right now, according to the API from OpenWeatherMaps
